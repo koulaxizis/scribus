@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<templates>
+	<template category="Books">
+		<name>Pocketbook</name>
+		<file>Pocketbook.sla</file>
+		<tnail>Pocketbooktn.png</tnail>
+		<img>Pocketbook.png</img>
+		<psize>custom, 298x420</psize>
+		<color></color>
+		<descr>32 pages pocketbook template,10,5000 cm x 14,8000 cm, front cover, back cover, 1,4112 cm margins &amp; 1,0000 cm bleeds, publisher&apos;s logo area, left/right/blank master pages, text frames, images frames, based on the pocketbooks of glarolykoi.net.</descr>
+		<usage>Free to use template for pocketbooks.</usage>
+		<scribus_version>1.5.5</scribus_version>
+		<date>2020-12-10</date>
+		<author>Christos Koulaxizis</author>
+		<email>koulaxizis@pmail.gr</email>
+	</template>
+</templates>
