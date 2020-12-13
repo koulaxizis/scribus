@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<templates>
+	<template category="Own Templates">
+		<name>A5</name>
+		<file>A5.sla</file>
+		<tnail>A5tn.png</tnail>
+		<img>A5.png</img>
+		<psize>14.8x21.0</psize>
+		<color></color>
+		<descr>A5</descr>
+		<usage>A5 size template for free use.</usage>
+		<scribus_version>1.5.5</scribus_version>
+		<date>2020-12-10</date>
+		<author>Christos Koulaxizis</author>
+		<email>koulaxizis@pmail.gr</email>
+	</template>
+</templates>

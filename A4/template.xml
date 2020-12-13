@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<templates>
+	<template category="Own Templates">
+		<name>A4</name>
+		<file>A4.sla</file>
+		<tnail>A4tn.png</tnail>
+		<img>A4.png</img>
+		<psize>21x29.7</psize>
+		<color></color>
+		<descr>A4</descr>
+		<usage>A4 size template for free use.</usage>
+		<scribus_version>1.5.5</scribus_version>
+		<date>2020-12-12</date>
+		<author>Christos Koulaxizis</author>
+		<email>koulaxizis@pmail.gr</email>
+	</template>
+</templates>
